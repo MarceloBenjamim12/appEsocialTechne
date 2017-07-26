@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esocial:eSocial xmlns:esocial="http://www.esocial.gov.br/schema/lote/eventos/envio/v1_1_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.esocial.gov.br/schema/lote/eventos/envio/v1_1_0 EnvioLoteEventos-v1_1_0.xsd ">
+  <esocial:envioLoteEventos grupo="0">
+    <esocial:ideEmpregador>
+      <esocial:tpInsc>0</esocial:tpInsc>
+      <esocial:nrInsc>esocial:nrInsc</esocial:nrInsc>
+    </esocial:ideEmpregador>
+    <esocial:ideTransmissor>
+      <esocial:tpInsc>0</esocial:tpInsc>
+      <esocial:nrInsc>esocial:nrInsc</esocial:nrInsc>
+    </esocial:ideTransmissor>
+    <esocial:eventos>
+      <esocial:evento Id="idvalue0">
+        <ANY-ELEMENT/>
+      </esocial:evento>
+    </esocial:eventos>
+  </esocial:envioLoteEventos>
+</esocial:eSocial>

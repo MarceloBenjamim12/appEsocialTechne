@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:eSocial xmlns:p="http://www.esocial.gov.br/schema/evt/evtTabRubrica/v02_01_00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.esocial.gov.br/schema/evt/evtTabRubrica/v02_01_00 evtTabRubrica.xsd ">
+  <p:evtTabRubrica Id="idvalue0">
+    <p:ideEvento>
+      <p:tpAmb>0</p:tpAmb>
+      <p:procEmi>0</p:procEmi>
+      <p:verProc>p:verProc</p:verProc>
+    </p:ideEvento>
+    <p:ideEmpregador>
+      <p:tpInsc>0</p:tpInsc>
+      <p:nrInsc>p:nrInsc</p:nrInsc>
+    </p:ideEmpregador>
+    <p:infoRubrica/>
+  </p:evtTabRubrica>
+  <Signature/>
+</p:eSocial>
